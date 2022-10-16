@@ -7,7 +7,8 @@ const Monthly = () => {
       <div className="button_subscription">
         <h3>Monthly Subscription</h3>
         <span>
-          <h1>$23</h1> <p>per month</p>
+          <h1>$23</h1>
+          <p>per month</p>
         </span>
         <p>Full access for less than $1 a day</p>
         <button>sign Up</button>
