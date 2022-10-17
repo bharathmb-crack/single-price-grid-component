@@ -5,12 +5,12 @@ import OurCommunity from "./OurCommunity";
 function App() {
   return (
     <div className="App">
-      <div className="container">
+      <main className="container">
         <OurCommunity />
         <div className="halfcontainer">
           <Monthly />
         </div>
-      </div>
+      </main>
     </div>
   );
 }
